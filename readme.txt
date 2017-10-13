@@ -1,0 +1,1 @@
+This is a sample app to learn/practice a git and MEAN JS
